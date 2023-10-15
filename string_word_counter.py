@@ -11,7 +11,6 @@ def contar_formaciones(palabra: str, cadena: str):
         else:
             # palabra_objetivo = list(palabra)
             palabra_objetivo.insert(0, letra_objetivo)
-        # else:
 
     return contador
 
